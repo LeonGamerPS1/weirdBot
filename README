@@ -1,0 +1,4 @@
+uhhh
+haxelib git haxicord https://github.com/RaidAndFade/Haxicord.git
+make a .TOKEN file and put ur discord token in there
+then run haxe test.hxml

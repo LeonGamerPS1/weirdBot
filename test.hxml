@@ -1,0 +1,5 @@
+-cp source
+--resource .TOKEN@token.tok
+--library haxicord
+--main WeirdBot
+--cpp bin/cpp
